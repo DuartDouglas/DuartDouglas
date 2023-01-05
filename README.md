@@ -4,7 +4,7 @@
 </div>
 
 <div >
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=DuartDouglas&repo=site-doctor-care&theme=chartreuse-dark">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=DuartDouglas&repo=projeto-de-estudos-login-instagram&theme=chartreuse-dark">
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=DuartDouglas&repo=site-doctor-care&theme=chartreuse-dark">
+  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=DuartDouglas&repo=projeto-de-estudos-login-instagram&theme=chartreuse-dark">
 </div>
 
