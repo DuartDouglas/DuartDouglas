@@ -14,9 +14,11 @@
        <img src="https://github-readme-stats.vercel.app/api?username=DuartDuarte&show_icons=true" />
      </picture>        
 </div>
-                                                                                                 
-## Ferramentas e Tecnologias
 
+<div align="center" >
+  <h2>Ferramentas e Tecnologias</h2>
+</div>
+                                                                                                
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
