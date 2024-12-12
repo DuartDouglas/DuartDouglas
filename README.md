@@ -1,9 +1,7 @@
 <div align="center" >
   <h1>Olá, eu sou o Douglas Duarte 👋</h1>
   <p>Desenvolvedor Web Fullstack | JavaScript | React | Node | MongoDB</p>
-  <p>Trabalhei como vendedor durante 13 anos e decidi fazer uma transição de carreira</p>
-  <p>aos 32 anos para a área de desenvolvimento.</p>
-  <p>My journey is just beginning 🚀</p>
+  <p>Trabalhei como vendedor durante 13 anos e decidi fazer uma transição de carreira <br>aos 32 anos para a área de desenvolvimento. <br>My journey is just beginning 🚀</p>
 </div>
 
 <div align="center" >
