@@ -1,7 +1,7 @@
 <div align="center" >
   <h1>Olá, eu sou o Douglas Duarte 👋</h1>
   <p>Desenvolvedor Web Fullstack | JavaScript | React | Node | MongoDB</p>
-  <p>Trabalhei como vendedor durante 13 anos e sempre fui apaixonado por tecnologia </br>Aos 32 anos iniciei minha transição de carreira para a área desenvolvimento. <br/> Inicialmente fiz cursos voltados para desenvolvimento FrontEnd e Backend e agora também estou fazendo a faculdade de Análise e Desenvolvimento de Sistemas <br>My journey is just beginning 🚀</p>
+  <p>Trabalhei como vendedor durante 13 anos e sempre fui apaixonado por tecnologia </br>Aos 32 anos iniciei minha transição de carreira para a área desenvolvimento. <br/> Inicialmente fiz cursos voltados para desenvolvimento FrontEnd e Backend e <br/> agora também estou fazendo a faculdade de Análise e Desenvolvimento de Sistemas <br>My journey is just beginning 🚀</p>
 </div>
 
 <div align="center" >
